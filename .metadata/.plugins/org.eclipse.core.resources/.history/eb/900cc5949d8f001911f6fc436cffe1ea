@@ -1,0 +1,21 @@
+package com.epam.task;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class RemoveATest {
+
+	/*
+	 * Remove A if it is present in first 2 characters
+	 * 1. 1'st character :
+	 * 2. 1'st & 2'nd character :
+	 * 3. 2'nd character :
+	 * 4. no character :	
+	 */
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

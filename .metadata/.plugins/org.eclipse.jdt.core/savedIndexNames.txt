@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+E:\EPAM\Task on TDD\.metadata\.plugins\org.eclipse.jdt.core
+40343377.index
+1307659346.index
+304309581.index
+338547378.index
+1360458839.index
+2012674120.index
+3384513373.index
+2060256332.index

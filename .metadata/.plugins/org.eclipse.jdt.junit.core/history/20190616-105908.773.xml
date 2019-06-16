@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="New_configuration" project="task-on-tdd" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.epam.task.RemoveATest" time="0.001" displayname="RemoveATest" uniqueid="[engine:junit-jupiter]/[class:com.epam.task.RemoveATest]">
+    <testcase name="testForNoCharacter" classname="com.epam.task.RemoveATest" time="0.001" displayname="testForNoCharacter()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task.RemoveATest]/[method:testForNoCharacter()]"/>
+    <testcase name="testForNotRemovingAfterThirdCharacter" classname="com.epam.task.RemoveATest" time="0.0" displayname="testForNotRemovingAfterThirdCharacter()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task.RemoveATest]/[method:testForNotRemovingAfterThirdCharacter()]"/>
+    <testcase name="testSecondCharacter" classname="com.epam.task.RemoveATest" time="0.0" displayname="testSecondCharacter()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task.RemoveATest]/[method:testSecondCharacter()]"/>
+    <testcase name="testFirstAndSecondCharacter" classname="com.epam.task.RemoveATest" time="0.0" displayname="testFirstAndSecondCharacter()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task.RemoveATest]/[method:testFirstAndSecondCharacter()]"/>
+    <testcase name="testFirstCharacter" classname="com.epam.task.RemoveATest" time="0.0" displayname="testFirstCharacter()" uniqueid="[engine:junit-jupiter]/[class:com.epam.task.RemoveATest]/[method:testFirstCharacter()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,16 @@
+package com.epam.task;
+
+public class RemoveCharacterA {
+
+	public String remove(String string) {
+		// TODO Auto-generated method stub
+		int len = string.length();
+		String str = "";
+		
+		if(string.charAt(0)=='A')
+			str = string.substring(1,len);
+		
+		return str;
+	}
+
+}

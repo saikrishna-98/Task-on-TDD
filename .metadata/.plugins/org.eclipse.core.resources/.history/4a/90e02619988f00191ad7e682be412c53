@@ -1,0 +1,14 @@
+package com.epam.task;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class RemoveATest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
